@@ -1,0 +1,9 @@
+URL
+lifecharger.com
+google.com
+wikipedia.org
+facebook.com
+twitter.com
+1651986725977,147,HTTP Request-1,200,OK,Include Thread Group 1-1,text,true,,212552,230,1,1,https://github.com/,48,0,40
+1651986725977,48,HTTP Request-1-0,301,Moved Permanently,Include Thread Group 1-1,,true,,84,115,1,1,http://github.com/,48,0,40
+1651986726025,99,HTTP Request-1-1,200,OK,Include Thread Group 1-1,text,true,,212468,115,1,1,https://github.com/,46,0,39
